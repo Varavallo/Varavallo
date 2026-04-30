@@ -17,7 +17,7 @@
 
 I'm an Economist working at the intersection of **sustainability**, **territorial development**, and **applied research**.
 
-Data Science and web development are tools I use to tackle real-world economic problems — from analysing socioeconomic data to building systems that support policy and decision-making. I'm also interested in how **distributed ledger technologies** can reshape transparency and accountability in economic systems.
+Data Science and web development are tools I use to tackle real-world economic problems, from analysing socioeconomic data to building systems that support policy and decision-making. I'm also interested in how **distributed ledger technologies** can reshape transparency and accountability in economic systems.
 
 ---
 
