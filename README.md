@@ -51,10 +51,6 @@ Data Science and web development are tools I use to tackle real-world economic p
 ---
 
 
-15:47
-
-
-
 
 ### 📬 Get in touch
 
