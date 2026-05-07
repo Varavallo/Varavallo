@@ -49,6 +49,16 @@ Data Science and web development are tools I use to tackle real-world economic p
 | [Antiwork Reddit Research](https://github.com/Varavallo/Antiwork-Reddit-Research-data) | Dataset and BERTopic analysis of 783 r/antiwork posts (Feb 2020–Feb 2022) to investigate the Great Resignation through the Moral Economy framework. Published in *Humanities & Social Sciences Communications*, Nature (2023). | Python · BERTopic · NLP · Reddit API |
 
 ---
+### 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Fontina PDO Blockchain Traceability](https://github.com/Varavallo/green-blockchain-dairy-traceability) | Green Blockchain traceability platform for the Fontina PDO cheese supply chain. Built with Django + Algorand (Pure Proof-of-Stake). EU Typicalp project. Published in *Sustainability*, MDPI (2022). | Python · Django · Algorand · MySQL · AWS |
+| [Antiwork Reddit Research](https://github.com/Varavallo/Antiwork-Reddit-Research-data) | Dataset and BERTopic analysis of 783 r/antiwork posts (Feb 2020–Feb 2022) to investigate the Great Resignation through the Moral Economy framework. Published in *Humanities & Social Sciences Communications*, Nature (2023). | Python · BERTopic · NLP · Reddit API |"
+
+15:47
+
+
+
 
 ### 📬 Get in touch
 
