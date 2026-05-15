@@ -47,6 +47,8 @@ Data Science and web development are tools I use to tackle real-world economic p
 |--------|-------------|------|
 | [Fontina PDO Blockchain Traceability](https://github.com/Varavallo/green-blockchain-dairy-traceability) | Green Blockchain traceability platform for the Fontina PDO cheese supply chain. Built with Django + Algorand (Pure Proof-of-Stake). EU Typicalp project. Published in *Sustainability*, MDPI (2022). | Python · Django · Algorand · MySQL · AWS |
 | [Antiwork Reddit Research](https://github.com/Varavallo/Antiwork-Reddit-Research-data) | Dataset and BERTopic analysis of 783 r/antiwork posts (Feb 2020–Feb 2022) to investigate the Great Resignation through the Moral Economy framework. Published in *Humanities & Social Sciences Communications*, Nature (2023). | Python · BERTopic · NLP · Reddit API |
+| [Foundational Economy Toolkit](https://github.com/Varavallo/foundational-economy-toolkit) | Data-driven framework to map foundational service provision in 372 marginal municipalities using the Google Maps Places API and hierarchical clustering. Foundational Economy Index (FEI) validated against ISTAT ASIA register (Spearman's ρ = 0.81). Paper under review. | Python · GeoPandas · PySAL · Google Maps API · QGIS |
+| [Apennines Territory Analysis](https://github.com/Varavallo/Apennines-Territory-Analysis) | Quantitative analysis of 992 Italian Apennine municipalities across geography, demography, and economy through the palimpsest framework. Chapter published in *Montagne a bassa definizione*, Donzelli Editore (2025). | Python · GeoPandas · Folium · QGIS |
 
 ---
 
