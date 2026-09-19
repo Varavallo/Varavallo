@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Varavallo 👋</h1>
 
 <p align="center">
-  <em>Economist · Sustainability & Territorial Development · Data Science & Web Dev</em>
+  <em>Economist · Sustainability & Rural Development · Data Science & Web Dev</em>
 </p>
 
 <p align="center">
