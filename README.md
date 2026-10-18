@@ -1,16 +1,23 @@
-<h1 align="center">Hi, I'm Giuseppe Varavallo 👋</h1>
+<h1 align="center">Hi, I'm Varavallo 👋</h1>
 
 <p align="center">
-  <strong>PhD in Economics · University of Turin</strong><br/>
-  <em>Foundational economy · Marginal & mountain areas · Spatial data science · Web dev</em>
+  <em>Economist · Sustainability & Rural Development · Data Science & Web Dev</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giuseppevaravallo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:giuseppe.varavallo@unito.it"><img src="https://img.shields.io/badge/Email-UniTo-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://doi.org/10.1016/j.seps.2026.102549"><img src="https://img.shields.io/badge/Latest%20paper-SEPS%202026-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white" alt="Latest paper"/></a>
-  <img src="https://img.shields.io/badge/Torino%2C%20Italy-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="https://www.linkedin.com/in/giuseppevaravallo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Torino%2C%20Italy-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
+
+---
+
+### 👨‍💻 About me
+
+I'm an Economist working at the intersection of **sustainability**, **territorial development**, and **applied research**.
+
+Data Science and web development are tools I use to tackle real-world economic problems, from analysing socioeconomic data to building systems that support policy and decision-making. I'm also interested in how **distributed ledger technologies** can reshape transparency and accountability in economic systems.
 
 ---
 
@@ -41,14 +48,6 @@ It applies the method of my [*Socio-Economic Planning Sciences* paper (2026)](ht
 </td>
 </tr>
 </table>
-
----
-
-## 👨‍💻 About me
-
-I'm an economist working at the intersection of **sustainability**, **territorial development** and **applied research**, with a focus on the **foundational economy** of marginal and mountain areas: the everyday services that make it possible to keep living in a place.
-
-Data science and web development are the tools I use to make that question measurable — from geolocating thousands of service points to building interactive sites that put the results in the hands of local administrators. I'm also interested in how **distributed ledger technologies** can improve transparency in supply chains and economic systems.
 
 ---
 
