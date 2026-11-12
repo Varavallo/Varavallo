@@ -60,7 +60,7 @@ It applies the method of my [*Socio-Economic Planning Sciences* paper (2026)](ht
   <a href="#labour-market"><img src="https://img.shields.io/badge/💼%20Labour%20Market-1%20project-E65100?style=for-the-badge" alt="Labour Market"/></a>
 </p>
 
-### Territorial Development 
+### Territorial Intelligence
 
 <sub>🗺️ Mapping demography and everyday services in mountain and inner areas — from a general method to single territories.</sub>
 
